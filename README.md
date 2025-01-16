@@ -1,0 +1,2 @@
+# Awesomeria
+A Terraria server.
