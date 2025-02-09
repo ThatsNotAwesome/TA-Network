@@ -1,2 +1,2 @@
-# TA-Network
+# TA-Network-Terraria
 A Terraria server.
